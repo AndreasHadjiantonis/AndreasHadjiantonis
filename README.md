@@ -1,20 +1,22 @@
-# Hi There 👋
+#                                                        Hello, I Am **Andreas Hadjiantonis**👋
 
-My name is **Andreas Hadjiantonis**, I Am 21 Years Old from Cyprus.
+## 🚀About Me
+🎓I Am currently studying **Computer Sciense and Technology** At [**Univerity Of Macedonia**](https://www.uom.gr/en/dai).               
+🎓I Studied 🎵**Classical Guitar** and got my Bachelor's degree from [**Hellenic Colledge Of Music**](https://hellenic-college-of-music.business.site/).
+
+🌱 I love spending time in the Nature and these are my hobbies!
+- 🏄🏻‍♂️Kitesurfing/Kiteboarding
+- 🔫Clay Shooting
+- 🛥️Boat Fishing
+
+# 📫 Find me on:
+<p align="left">
+<a href="https://www.linkedin.com/in/andreashadjiantonis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://twitter.com/Hadjiantonis_A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/andreas_hadjiantonis_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
 
-- I Am currently studying **Computer Sciense and Technology** At [**Univerity Of Macedonia**](https://www.uom.gr/en/dai).
-
-- I also have a Bachelor's degree in **Guitar Teaching** from [**Hellenic Colledge Of Music**](https://hellenic-college-of-music.business.site/).
-
-# My Hobbies
-- Kitesurfing/Kiteboarding
-- Clay Shooting
-- Fishing
-
-# 📫 How to reach me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=/)](https://www.linkedin.com/in/andreashadjiantonis/)
 
 <!--
 **AndreasHadjiantonis/AndreasHadjiantonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
