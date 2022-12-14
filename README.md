@@ -16,7 +16,12 @@
 <a href="https://twitter.com/Hadjiantonis_A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/andreas_hadjiantonis_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a> 
 <a href="Andreashadjiantonis#7439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gautamkrishnar" height="40" width="50" /></a>
-  
+
+## On my spare time I'm Learning 
+
+🌱 Dynamic Programming 
+⚡ Angular
+
 ## Skills
   - ✏️Effective Communication
   - ✏️Critical Thinking & Problem Solving
