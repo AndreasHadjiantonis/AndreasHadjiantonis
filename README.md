@@ -1,7 +1,7 @@
 #                                                        Hello, I Am **Andreas Hadjiantonis**👋
 
 ## 🚀About Me
-🎓I Am currently studying **Computer Sciense and Technology** At [**Univerity Of Macedonia**](https://www.uom.gr/en/dai).               
+🎓I Am currently studying **Computer Science and Technology** At [**Univerity Of Macedonia**](https://www.uom.gr/en/dai).               
 🎓I Studied 🎵**Classical Guitar** and got my Bachelor's degree from [**Hellenic Colledge Of Music**](https://hellenic-college-of-music.business.site/).
 
 🌱 I love spending time in the Nature and these are my hobbies!
